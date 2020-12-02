@@ -1,3 +1,15 @@
+# Say Hi~
+
+Hi, I am scyq.
+
+Many players told me that it is slow to open the game in browser. So I publish the win_64 and macOS version on itch.io for everyone.
+
+Thank you all guys for playing it! It helps me a lot.
+
+If there are bugs in the game, you are welcomed to issue in GitHub or comment on itch.io. It is important for me.
+
+Thank you again and enjoy it.
+
 # Game Off 2020
 
 Game Off 2020
@@ -20,9 +32,9 @@ P1 uses the arrow to control the direction, right Shift to reorganize the bricks
 
 P2 controls the direction through WASD, and the space bar reorganizes the bricks.
 
-Play on Link [From itch.io](https://scyq.itch.io/shoot-the-moon)
+Play on Link or Download it [From itch.io](https://scyq.itch.io/shoot-the-moon)
 
-## How to play on Local
+## How to play Locally
 
 Download the html.zip on itch first.
 
